@@ -1,0 +1,17 @@
+body {
+    font-size:20px;
+    font-family: 'Indie Flower', cursive;
+    background-image: url("../images/background.png");
+    background-size:cover;
+}
+
+.background {
+    background-image: url("../images/background.jpg");
+    background-size:cover;
+}
+
+.jumbotron {
+    background-color:#281f30;
+    color:#f4e842;
+}
+
